@@ -4,14 +4,14 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 13.636363636363637
+                "correct": 15
             }
         },
         {
             "path": "/texts/course/1. Vectors/config.yml",
             "status": {
                 "total": 34,
-                "correct": 13.636363636363637
+                "correct": 15
             }
         },
         {
@@ -200,7 +200,7 @@
         {
             "path": "/texts/course/1. Vectors/Numpy Practice/config.yml",
             "status": {
-                "correct": 13.636363636363637,
+                "correct": 15,
                 "total": 15,
                 "testStatus": [
                     {
@@ -210,8 +210,8 @@
                     },
                     {
                         "name": "root -> vectors -> 1",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: int64\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> vectors -> 2",
@@ -260,8 +260,8 @@
                     },
                     {
                         "name": "root -> deep_copy -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.3333333333333333"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> deep_copy -> 2",
@@ -335,8 +335,8 @@
                     },
                     {
                         "name": "root -> lovely -> 1",
-                        "ok": false,
-                        "status": "FAILED: Edit distance between strings is 17"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lovely -> 2",
