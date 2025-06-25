@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 23.7
+                "correct": 24.7
             }
         },
         {
@@ -18,7 +18,7 @@
             "path": "/texts/course/2. Vector Spaces/config.yml",
             "status": {
                 "total": 39,
-                "correct": 6.699999999999999
+                "correct": 7.699999999999999
             }
         },
         {
@@ -54,8 +54,11 @@
             "path": "/texts/course/2. Vector Spaces/Linear Dependency/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    6
+                ]
             }
         },
         {
