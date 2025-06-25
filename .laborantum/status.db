@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 43.325
+                "correct": 44.325
             }
         },
         {
@@ -32,7 +32,7 @@
             "path": "/texts/course/4. Linear Transforms/config.yml",
             "status": {
                 "total": 15,
-                "correct": 2
+                "correct": 3
             }
         }
     ],
@@ -1155,8 +1155,13 @@
             "path": "/texts/course/4. Linear Transforms/Invertible Matrices/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    6,
+                    1,
+                    3
+                ]
             }
         },
         {
