@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 29.7
+                "correct": 30.7
             }
         },
         {
@@ -18,7 +18,7 @@
             "path": "/texts/course/2. Vector Spaces/config.yml",
             "status": {
                 "total": 39,
-                "correct": 9.7
+                "correct": 10.7
             }
         },
         {
@@ -639,8 +639,16 @@
             "path": "/texts/course/2. Vector Spaces/Hyperplanes/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    1,
+                    4,
+                    8,
+                    2,
+                    6,
+                    7,
+                    0
+                ]
             }
         },
         {
