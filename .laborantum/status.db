@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 229,
-                "correct": 117.89418293149636
+                "correct": 122.89418293149636
             }
         },
         {
@@ -39,7 +39,7 @@
             "path": "/texts/course/5. Gauss Elimination/config.yml",
             "status": {
                 "total": 50,
-                "correct": 5
+                "correct": 10
             }
         },
         {
@@ -6540,7 +6540,7 @@
         {
             "path": "/texts/course/5. Gauss Elimination/Manual Exercises Square Matrices/config.yml",
             "status": {
-                "correct": 5,
+                "correct": 10,
                 "total": 10,
                 "testStatus": [
                     {
@@ -6605,63 +6605,63 @@
                     },
                     {
                         "name": "root -> task3 -> A",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: int64\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task3 -> y",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: int64\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task3 -> x",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: int64\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task3 -> inverse",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 3)\nRecieved shape: (0,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task3 -> L",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: int64\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task3 -> U",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: int64\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4 -> A",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: int64\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4 -> y",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: int64\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4 -> x",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: int64\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4 -> inverse",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: int64\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4 -> L",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 4)\nRecieved shape: (0,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4 -> U",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 4)\nRecieved shape: (0,)"
+                        "ok": true,
+                        "status": "OK"
                     }
                 ]
             }
