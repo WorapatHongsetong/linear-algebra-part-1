@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 258,
-                "correct": 238.64390353842685
+                "correct": 244.46743295019155
             }
         },
         {
@@ -53,7 +53,7 @@
             "path": "/texts/course/7. Eigen Values and Eigen Vectors/config.yml",
             "status": {
                 "total": 29,
-                "correct": 20.176470588235293
+                "correct": 26
             }
         },
         {
@@ -28201,10 +28201,11 @@
             "path": "/texts/course/7. Eigen Values and Eigen Vectors/Differential Equations Evolutionary Matrix/config.yml",
             "status": {
                 "total": 5,
-                "correct": 1.1764705882352942,
+                "correct": 5,
                 "selectedVariantIds": [
                     0,
                     1,
+                    2,
                     3,
                     4,
                     5,
@@ -28213,22 +28214,32 @@
                     8,
                     9,
                     10,
+                    11,
+                    12,
                     13,
                     14,
-                    12,
-                    2,
-                    16,
                     15,
-                    11
+                    16
                 ]
             }
         },
         {
             "path": "/texts/course/7. Eigen Values and Eigen Vectors/Differential Equations General Solution/config.yml",
             "status": {
-                "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "total": 5,
+                "correct": 2,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    8,
+                    6,
+                    5,
+                    2,
+                    3,
+                    7,
+                    4,
+                    9
+                ]
             }
         },
         {
