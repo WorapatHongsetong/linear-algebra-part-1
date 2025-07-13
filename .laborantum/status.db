@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 258,
-                "correct": 217.35300508949504
+                "correct": 220.35300508949504
             }
         },
         {
@@ -53,7 +53,7 @@
             "path": "/texts/course/7. Eigen Values and Eigen Vectors/config.yml",
             "status": {
                 "total": 29,
-                "correct": 16
+                "correct": 19
             }
         },
         {
@@ -27986,9 +27986,18 @@
         {
             "path": "/texts/course/7. Eigen Values and Eigen Vectors/Jordan Chain/config.yml",
             "status": {
-                "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "total": 3,
+                "correct": 3,
+                "selectedVariantIds": [
+                    8,
+                    0,
+                    10,
+                    7,
+                    2,
+                    3,
+                    4,
+                    6
+                ]
             }
         }
     ]
