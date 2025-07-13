@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 258,
-                "correct": 244.46743295019155
+                "correct": 247.46743295019155
             }
         },
         {
@@ -53,7 +53,7 @@
             "path": "/texts/course/7. Eigen Values and Eigen Vectors/config.yml",
             "status": {
                 "total": 29,
-                "correct": 26
+                "correct": 29
             }
         },
         {
@@ -28227,17 +28227,17 @@
             "path": "/texts/course/7. Eigen Values and Eigen Vectors/Differential Equations General Solution/config.yml",
             "status": {
                 "total": 5,
-                "correct": 2,
+                "correct": 5,
                 "selectedVariantIds": [
                     0,
                     1,
-                    8,
-                    6,
-                    5,
                     2,
                     3,
-                    7,
                     4,
+                    5,
+                    6,
+                    7,
+                    8,
                     9
                 ]
             }
